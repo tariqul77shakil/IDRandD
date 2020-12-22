@@ -32,8 +32,4 @@
     <None Include="Helping Docs\IDTP.Models.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\IDTP.Models\IDTP.Models.csproj" />
-  </ItemGroup>
-
 </Project>

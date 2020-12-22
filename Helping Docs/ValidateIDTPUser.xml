@@ -15,7 +15,7 @@
     <UserInfo>
       <UserVID value="shakil@user.idtp"/>
     </UserInfo>
-    <OtherInfo/>
+    <OtherInfo/> 
     <Creds>
       <Cred type="IDTP_PIN" subtype="">
         <Data>123456</Data>
