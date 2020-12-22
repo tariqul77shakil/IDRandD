@@ -1,0 +1,42 @@
+﻿<!-- Give exact information from : RegNewUser.xml file -->
+<ValidateIDTPUser xmlns:idtp="http://idtp.gov.bd/xxx/schema/">
+  <Head ver="1.0" ts="2020-12-22T15:15:43+05:30" orgId="sample1" msgId="1"/>
+  <Req id="8ENSVVR4QOS7X1UGPY7JGUV444PL9T2C3QM" note="Validate IDTP User" ts="2020-05-22T15:15:42+05:30" type="VALIDATEIDTPUSER"/>
+  <ChannelInfo>
+    <ChannelID>Online</ChannelID>
+  </ChannelInfo>
+  <IDTPUserInfo>
+    <DeviceInfo>
+      <Device_ID></Device_ID>
+      <Mobile_No>01614999999</Mobile_No>
+      <Location></Location>
+      <IP></IP>
+    </DeviceInfo>
+    <UserInfo>
+      <UserVID value="shakil@user.idtp"/>
+    </UserInfo>
+    <OtherInfo/>
+    <Creds>
+      <Cred type="IDTP_PIN" subtype="">
+        <Data>123456</Data>
+      </Cred>
+    </Creds>
+  </IDTPUserInfo>
+</ValidateIDTPUser>
+
+
+<!--
+
+RequestUrl : http://play.idtpbd.com:6071/ValidateIDTPUser
+
+url: http://play.idtpbd.com:6071/swagger/index.html
+method: ValidateIDTPUSER(), POST
+content-type: application/json
+
+Json formatter String:
+"<ValidateIDTPUser xmlns:idtp=\"http:\/\/idtp.gov.bd\/xxx\/schema\/\">\r\n  <Head ver=\"1.0\" ts=\"2020-12-22T15:15:43+05:30\" orgId=\"sample1\" msgId=\"1\"\/>\r\n  <Req id=\"8ENSVVR4QOS7X1UGPY7JGUV444PL9T2C3QM\" note=\"Validate IDTP User\" ts=\"2020-05-22T15:15:42+05:30\" type=\"VALIDATEIDTPUSER\"\/>\r\n  <ChannelInfo>\r\n    <ChannelID>Online<\/ChannelID>\r\n  <\/ChannelInfo>\r\n  <IDTPUserInfo>\r\n    <DeviceInfo>\r\n      <Device_ID><\/Device_ID>\r\n      <Mobile_No>01614999999<\/Mobile_No>\r\n      <Location><\/Location>\r\n      <IP><\/IP>\r\n    <\/DeviceInfo>\r\n    <UserInfo>\r\n      <UserVID value=\"shakil@user.idtp\"\/>\r\n    <\/UserInfo>\r\n    <OtherInfo\/>\r\n    <Creds>\r\n      <Cred type=\"IDTP_PIN\" subtype=\"\">\r\n        <Data>123456<\/Data>\r\n      <\/Cred>\r\n    <\/Creds>\r\n  <\/IDTPUserInfo>\r\n<\/ValidateIDTPUser>"
+
+Response: Successful
+<ValidateIDTPUserResponse>rn  <Code>200</Code>rn  <Message>Success</Message>rn  <VirtualID>shakil@user.idtp</VirtualID>rn</ValidateIDTPUserResponse>
+
+-->

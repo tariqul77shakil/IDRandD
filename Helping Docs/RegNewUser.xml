@@ -1,0 +1,88 @@
+﻿<RegisterUser xmlns:idtp="http://idtp.gov.bd/xxx/schema/">
+  <Head ver="1.0" ts="12/22/2020 12:48:50" orgId="SBL1BDDH" msgId="1"></Head>
+  <Req id="74b05e2a-b656-4d14-bef6-02170ca527cb" note="RegisterUser" ts="12/22/2020 12:48:50" type="RegisterUser"></Req>
+  <Entity seqNum="1">
+    <Info>
+      <EntityType>Individual</EntityType>
+      <Name>Shakil</Name>
+      <AddressLine1>Mymensingh</AddressLine1>
+      <AddressLine2>Dhaka</AddressLine2>
+      <District>Mymensingh</District>
+      <PostalCode>2600</PostalCode>
+      <MobileNumber>01614999999</MobileNumber>
+      <Email>tariqul.shakil@sonalibank.com.bd</Email>
+      <TypeOfOwnership></TypeOfOwnership>
+      <TypeOfBusiness></TypeOfBusiness>
+      <NameOfMinistry></NameOfMinistry>
+      <NameOfDivision></NameOfDivision>
+      <TypeOfFinancialInstitution></TypeOfFinancialInstitution>
+      <SwiftCode></SwiftCode>
+      <CBAccountNumber></CBAccountNumber>
+      <NID>19926115247000379</NID>
+      <TIN>111111111114</TIN>
+      <BIN>111111111115</BIN>
+      <IDTPKey>Sh@kil123</IDTPKey>
+      <DateOfBirth>12/25/1992 00:00:00</DateOfBirth>
+      <DateOfIncorporation>01/01/0001 00:00:00</DateOfIncorporation>
+      <CallBackURL></CallBackURL>
+      <Password>Sh@kil123</Password>
+    </Info>
+    <DeviceInfo>
+      <Device_ID></Device_ID>
+      <Mobile_No></Mobile_No>
+      <Location></Location>
+      <IP></IP>
+    </DeviceInfo>
+    <FinancialInstitutionInfo>
+      <FinancialInstitution>Sonali Bank Limited</FinancialInstitution>
+      <BranchName>Local Office</BranchName>
+      <RoutingNumber>200273882</RoutingNumber>
+      <AccountNumber>0002601022088</AccountNumber>
+    </FinancialInstitutionInfo>
+    <ContactReference>
+      <ContactPersonName></ContactPersonName>
+      <Designation></Designation>
+      <ContactNumber></ContactNumber>
+      <Email></Email>
+    </ContactReference>
+    <Creds>
+      <Cred type="IDTP_PIN" subtype="">
+        <Data>123456</Data>
+      </Cred>
+    </Creds>
+    <RequestedVirtualID value="shakil@user.idtp"></RequestedVirtualID>
+    <OtherInfo>
+      <Channel>Online</Channel>
+    </OtherInfo>
+  </Entity>
+</RegisterUser>
+
+<!-- 
+1. Make xml  from participant quickstart guide or slack  Genereate new guid for req_id
+2. Use online xml to json string escape converter  https://www.freeformatter.com/json-escape.html#ad-output
+3. go to IDTP portal IDTP Portal swagger : http://play.idtpbd.com:6071/swagger/index.html
+4. content type : application/json 
+5.  paste json string (xml) at request body
+6. execute
+7. Get response successfull or not
+
+-->
+
+<!-- Request Url : http://play.idtpbd.com:6071/RegisterIDTPUser -->
+
+<!--IDTP Portal : http://play.idtpbd.com:6071/swagger/index.html-->
+<!--Content : application/json-->
+
+<!-- Request body xml json formatter escape xml stri-->
+<!-- 
+"<RegisterUser xmlns:idtp=\"http:\/\/idtp.gov.bd\/xxx\/schema\/\">\r\n  <Head ver=\"1.0\" ts=\"12\/22\/2020 12:48:50\" orgId=\"SBL1BDDH\" msgId=\"1\"><\/Head>\r\n  <Req id=\"74b05e2a-b656-4d14-bef6-02170ca527cb\" note=\"RegisterUser\" ts=\"12\/22\/2020 12:48:50\" type=\"RegisterUser\"><\/Req>\r\n  <Entity seqNum=\"1\">\r\n    <Info>\r\n      <EntityType>Individual<\/EntityType>\r\n      <Name>Shakil<\/Name>\r\n      <AddressLine1>Mymensingh<\/AddressLine1>\r\n      <AddressLine2>Dhaka<\/AddressLine2>\r\n      <District>Mymensingh<\/District>\r\n      <PostalCode>2600<\/PostalCode>\r\n      <MobileNumber>01614999999<\/MobileNumber>\r\n      <Email>tariqul.shakil@sonalibank.com.bd<\/Email>\r\n      <TypeOfOwnership><\/TypeOfOwnership>\r\n      <TypeOfBusiness><\/TypeOfBusiness>\r\n      <NameOfMinistry><\/NameOfMinistry>\r\n      <NameOfDivision><\/NameOfDivision>\r\n      <TypeOfFinancialInstitution><\/TypeOfFinancialInstitution>\r\n      <SwiftCode><\/SwiftCode>\r\n      <CBAccountNumber><\/CBAccountNumber>\r\n      <NID>19926115247000379<\/NID>\r\n      <TIN>111111111114<\/TIN>\r\n      <BIN>111111111115<\/BIN>\r\n      <IDTPKey>Sh@kil123<\/IDTPKey>\r\n      <DateOfBirth>12\/25\/1992 00:00:00<\/DateOfBirth>\r\n      <DateOfIncorporation>01\/01\/0001 00:00:00<\/DateOfIncorporation>\r\n      <CallBackURL><\/CallBackURL>\r\n      <Password>Sh@kil123<\/Password>\r\n    <\/Info>\r\n    <DeviceInfo>\r\n      <Device_ID><\/Device_ID>\r\n      <Mobile_No><\/Mobile_No>\r\n      <Location><\/Location>\r\n      <IP><\/IP>\r\n    <\/DeviceInfo>\r\n    <FinancialInstitutionInfo>\r\n      <FinancialInstitution>Sonali Bank Limited<\/FinancialInstitution>\r\n      <BranchName>Local Office<\/BranchName>\r\n      <RoutingNumber>200273882<\/RoutingNumber>\r\n      <AccountNumber>0002601022088<\/AccountNumber>\r\n    <\/FinancialInstitutionInfo>\r\n    <ContactReference>\r\n      <ContactPersonName><\/ContactPersonName>\r\n      <Designation><\/Designation>\r\n      <ContactNumber><\/ContactNumber>\r\n      <Email><\/Email>\r\n    <\/ContactReference>\r\n    <Creds>\r\n      <Cred type=\"IDTP_PIN\" subtype=\"\">\r\n        <Data>123456<\/Data>\r\n      <\/Cred>\r\n    <\/Creds>\r\n    <RequestedVirtualID value=\"shakil@user.idtp\"><\/RequestedVirtualID>\r\n    <OtherInfo>\r\n      <Channel>Online<\/Channel>\r\n    <\/OtherInfo>\r\n  <\/Entity>\r\n<\/RegisterUser>"
+-->
+
+<!-- xml to json string formatter: https://www.freeformatter.com/json-escape.html#ad-output-->
+
+<!--Sucessful Registration-->
+<!--<RegisterUserResponse>
+  rn  <Code>200</Code>rn  <Message>Registration Successful</Message>rn  <UserInfo seqNum="1">
+    rn    <Status>1</Status>rn    <VirtualID>shakil@user.idtp</VirtualID>rn
+  </UserInfo>rn
+</RegisterUserResponse>-->
