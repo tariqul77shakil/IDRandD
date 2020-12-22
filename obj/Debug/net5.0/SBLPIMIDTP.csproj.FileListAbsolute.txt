@@ -1,0 +1,152 @@
+D:\SPS\SBLPIMIDTP\bin\Debug\net5.0\appsettings.Development.json
+D:\SPS\SBLPIMIDTP\bin\Debug\net5.0\appsettings.json
+D:\SPS\SBLPIMIDTP\bin\Debug\net5.0\SBLPIMIDTP.exe
+D:\SPS\SBLPIMIDTP\bin\Debug\net5.0\SBLPIMIDTP.deps.json
+D:\SPS\SBLPIMIDTP\bin\Debug\net5.0\SBLPIMIDTP.runtimeconfig.json
+D:\SPS\SBLPIMIDTP\bin\Debug\net5.0\SBLPIMIDTP.runtimeconfig.dev.json
+D:\SPS\SBLPIMIDTP\bin\Debug\net5.0\SBLPIMIDTP.dll
+D:\SPS\SBLPIMIDTP\bin\Debug\net5.0\ref\SBLPIMIDTP.dll
+D:\SPS\SBLPIMIDTP\bin\Debug\net5.0\SBLPIMIDTP.pdb
+D:\SPS\SBLPIMIDTP\bin\Debug\net5.0\Antlr3.Runtime.dll
+D:\SPS\SBLPIMIDTP\bin\Debug\net5.0\Iesi.Collections.dll
+D:\SPS\SBLPIMIDTP\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+D:\SPS\SBLPIMIDTP\bin\Debug\net5.0\System.Web.Http.dll
+D:\SPS\SBLPIMIDTP\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\SPS\SBLPIMIDTP\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\SPS\SBLPIMIDTP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SPS\SBLPIMIDTP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\SPS\SBLPIMIDTP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\SPS\SBLPIMIDTP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SPS\SBLPIMIDTP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\SPS\SBLPIMIDTP\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\SPS\SBLPIMIDTP\bin\Debug\net5.0\NetDevPack.Security.JwtSigningCredentials.dll
+D:\SPS\SBLPIMIDTP\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\SPS\SBLPIMIDTP\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\SPS\SBLPIMIDTP\bin\Debug\net5.0\NHibernate.dll
+D:\SPS\SBLPIMIDTP\bin\Debug\net5.0\Remotion.Linq.dll
+D:\SPS\SBLPIMIDTP\bin\Debug\net5.0\Remotion.Linq.EagerFetching.dll
+D:\SPS\SBLPIMIDTP\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SPS\SBLPIMIDTP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SPS\SBLPIMIDTP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SPS\SBLPIMIDTP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\SPS\SBLPIMIDTP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SPS\SBLPIMIDTP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\SPS\SBLPIMIDTP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SPS\SBLPIMIDTP\obj\Debug\net5.0\SBLPIMIDTP.GeneratedMSBuildEditorConfig.editorconfig
+D:\SPS\SBLPIMIDTP\obj\Debug\net5.0\SBLPIMIDTP.AssemblyInfoInputs.cache
+D:\SPS\SBLPIMIDTP\obj\Debug\net5.0\SBLPIMIDTP.AssemblyInfo.cs
+D:\SPS\SBLPIMIDTP\obj\Debug\net5.0\SBLPIMIDTP.csproj.CoreCompileInputs.cache
+D:\SPS\SBLPIMIDTP\obj\Debug\net5.0\SBLPIMIDTP.MvcApplicationPartsAssemblyInfo.cs
+D:\SPS\SBLPIMIDTP\obj\Debug\net5.0\SBLPIMIDTP.MvcApplicationPartsAssemblyInfo.cache
+D:\SPS\SBLPIMIDTP\obj\Debug\net5.0\staticwebassets\SBLPIMIDTP.StaticWebAssets.Manifest.cache
+D:\SPS\SBLPIMIDTP\obj\Debug\net5.0\staticwebassets\SBLPIMIDTP.StaticWebAssets.xml
+D:\SPS\SBLPIMIDTP\obj\Debug\net5.0\scopedcss\bundle\SBLPIMIDTP.styles.css
+D:\SPS\SBLPIMIDTP\obj\Debug\net5.0\SBLPIMIDTP.RazorTargetAssemblyInfo.cache
+D:\SPS\SBLPIMIDTP\obj\Debug\net5.0\SBLPIMIDTP.csproj.CopyComplete
+D:\SPS\SBLPIMIDTP\obj\Debug\net5.0\SBLPIMIDTP.dll
+D:\SPS\SBLPIMIDTP\obj\Debug\net5.0\ref\SBLPIMIDTP.dll
+D:\SPS\SBLPIMIDTP\obj\Debug\net5.0\SBLPIMIDTP.pdb
+D:\SPS\SBLPIMIDTP\obj\Debug\net5.0\SBLPIMIDTP.genruntimeconfig.cache
+D:\SPS\SBLPIMIDTP\obj\Debug\net5.0\SBLPIMIDTP.csprojAssemblyReference.cache
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\bin\Debug\net5.0\appsettings.Development.json
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\bin\Debug\net5.0\appsettings.json
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\bin\Debug\net5.0\SBLPIMIDTP.exe
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\bin\Debug\net5.0\SBLPIMIDTP.deps.json
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\bin\Debug\net5.0\SBLPIMIDTP.runtimeconfig.json
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\bin\Debug\net5.0\SBLPIMIDTP.runtimeconfig.dev.json
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\bin\Debug\net5.0\SBLPIMIDTP.dll
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\bin\Debug\net5.0\ref\SBLPIMIDTP.dll
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\bin\Debug\net5.0\SBLPIMIDTP.pdb
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\bin\Debug\net5.0\Antlr3.Runtime.dll
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\bin\Debug\net5.0\Iesi.Collections.dll
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\bin\Debug\net5.0\System.Web.Http.dll
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\bin\Debug\net5.0\NetDevPack.Security.JwtSigningCredentials.dll
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\bin\Debug\net5.0\NHibernate.dll
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\bin\Debug\net5.0\Remotion.Linq.dll
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\bin\Debug\net5.0\Remotion.Linq.EagerFetching.dll
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\obj\Debug\net5.0\SBLPIMIDTP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\obj\Debug\net5.0\SBLPIMIDTP.AssemblyInfoInputs.cache
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\obj\Debug\net5.0\SBLPIMIDTP.AssemblyInfo.cs
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\obj\Debug\net5.0\SBLPIMIDTP.csproj.CoreCompileInputs.cache
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\obj\Debug\net5.0\SBLPIMIDTP.MvcApplicationPartsAssemblyInfo.cs
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\obj\Debug\net5.0\SBLPIMIDTP.MvcApplicationPartsAssemblyInfo.cache
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\obj\Debug\net5.0\staticwebassets\SBLPIMIDTP.StaticWebAssets.Manifest.cache
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\obj\Debug\net5.0\staticwebassets\SBLPIMIDTP.StaticWebAssets.xml
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\obj\Debug\net5.0\scopedcss\bundle\SBLPIMIDTP.styles.css
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\obj\Debug\net5.0\SBLPIMIDTP.RazorTargetAssemblyInfo.cache
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\obj\Debug\net5.0\SBLPIMIDTP.csproj.CopyComplete
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\obj\Debug\net5.0\SBLPIMIDTP.dll
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\obj\Debug\net5.0\ref\SBLPIMIDTP.dll
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\obj\Debug\net5.0\SBLPIMIDTP.pdb
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\obj\Debug\net5.0\SBLPIMIDTP.genruntimeconfig.cache
+E:\Shakil from 13.12.2020\Office Projects\idtp_pim-master\obj\Debug\net5.0\SBLPIMIDTP.csprojAssemblyReference.cache
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\bin\Debug\net5.0\appsettings.Development.json
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\bin\Debug\net5.0\appsettings.json
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\bin\Debug\net5.0\SBLPIMIDTP.exe
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\bin\Debug\net5.0\SBLPIMIDTP.deps.json
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\bin\Debug\net5.0\SBLPIMIDTP.runtimeconfig.json
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\bin\Debug\net5.0\SBLPIMIDTP.runtimeconfig.dev.json
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\bin\Debug\net5.0\SBLPIMIDTP.dll
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\bin\Debug\net5.0\ref\SBLPIMIDTP.dll
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\bin\Debug\net5.0\SBLPIMIDTP.pdb
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\bin\Debug\net5.0\Antlr3.Runtime.dll
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\bin\Debug\net5.0\Iesi.Collections.dll
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\bin\Debug\net5.0\System.Web.Http.dll
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\bin\Debug\net5.0\NetDevPack.Security.JwtSigningCredentials.dll
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\bin\Debug\net5.0\NHibernate.dll
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\bin\Debug\net5.0\Remotion.Linq.dll
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\bin\Debug\net5.0\Remotion.Linq.EagerFetching.dll
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\obj\Debug\net5.0\SBLPIMIDTP.csprojAssemblyReference.cache
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\obj\Debug\net5.0\SBLPIMIDTP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\obj\Debug\net5.0\SBLPIMIDTP.AssemblyInfoInputs.cache
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\obj\Debug\net5.0\SBLPIMIDTP.AssemblyInfo.cs
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\obj\Debug\net5.0\SBLPIMIDTP.csproj.CoreCompileInputs.cache
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\obj\Debug\net5.0\SBLPIMIDTP.MvcApplicationPartsAssemblyInfo.cs
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\obj\Debug\net5.0\SBLPIMIDTP.MvcApplicationPartsAssemblyInfo.cache
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\obj\Debug\net5.0\staticwebassets\SBLPIMIDTP.StaticWebAssets.Manifest.cache
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\obj\Debug\net5.0\staticwebassets\SBLPIMIDTP.StaticWebAssets.xml
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\obj\Debug\net5.0\scopedcss\bundle\SBLPIMIDTP.styles.css
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\obj\Debug\net5.0\SBLPIMIDTP.RazorTargetAssemblyInfo.cache
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\obj\Debug\net5.0\SBLPIMIDTP.csproj.CopyComplete
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\obj\Debug\net5.0\SBLPIMIDTP.dll
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\obj\Debug\net5.0\ref\SBLPIMIDTP.dll
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\obj\Debug\net5.0\SBLPIMIDTP.pdb
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\obj\Debug\net5.0\SBLPIMIDTP.genruntimeconfig.cache
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\bin\Debug\net5.0\IDTP.Models.dll
+E:\Shakil from 13.12.2020\R&D\idtp_pim-master\bin\Debug\net5.0\IDTP.Models.pdb
